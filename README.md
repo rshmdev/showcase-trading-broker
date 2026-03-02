@@ -21,7 +21,6 @@
 |---|---|
 | **Tipo de Sistema** | Plataforma SaaS B2C de Trading Financeiro |
 | **Modelo de Negócio** | Corretora de Opções Binárias com programa de afiliados |
-| **Ambiente de Produção** | [brokerblackpearl.com.br](https://brokerblackpearl.com.br) |
 | **Arquitetura** | Full Stack — Backend + Frontend em containers isolados |
 
 ---
